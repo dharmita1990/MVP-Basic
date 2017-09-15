@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPBasic</string>
+    <string name="loading_tasks_error">Error while loading tasks</string>
+    <string name="title">Title</string>
+    <string name="des">Description</string>
+    <string name="successfully_saved_task_message">Task saved</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="no_task">No Task</string>
+</resources>
